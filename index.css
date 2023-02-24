@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    cursor: pointer auto;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: inherit;
+}
+
+nav {
+    margin-top: 60px;
+}
+
+.list {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #0D233F;
+}
+
+.list_div {
+    display: flex;
+    gap: 60px;
+}
+
+.tel_1 {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #0C243E;
+}
+
+span {
+    color: #FF7300;
+}
+
+.logo {
+    margin-top: -19px;
+}
+
+.sarlavha_1 {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 115%;
+    letter-spacing: 0.295em;
+    color: #0C243E;
+}
+
+.foiz {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    color: #0C243E;
+}
+
+.sozchalar {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #0C243E;
+}
+
+.sozcha {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #0C243E;
+}
+
+.text_div_1 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.iktta_soz_div {
+    margin-top: 10px;
+}
+
+.btn_1 {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #FF7300;
+    border: none;
+    padding: 12px 35px;
+    margin-top: 50px;
+    margin-left: -320px;
+}
+
+header {
+    margin-top: 120px;
+}
+
+.ong_rasm {
+    width: 700px;
+    height: 500px;
+    margin-top: -750px;
+    margin-left: -230px;
+}
+
+.katta_div_1 {
+    position: absolute;
+}
+
+.ong_rasm_blue {
+    width: 700px;
+    height: 530px;
+}
+
+.sarlavha_2 {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    text-transform: uppercase;
+    color: #0C243E;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.cardlar_div {
+    width: 280px;
+    height: 400px;
+    box-shadow: 2px 3px 20px rgb(46, 46, 46);
+    border-radius: 10px;
+}
+
+.card_text {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 130%;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #0C243E;
+    margin-top: 300px;
+}
+
+.card_div_div{
+    display: flex;
+    gap: 25px;
+}
+
+.card_img{
+    border-radius: 10px;
+}
