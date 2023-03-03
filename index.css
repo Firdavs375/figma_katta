@@ -44,7 +44,7 @@ nav {
     color: #0C243E;
 }
 
-span {
+.tel_1 span {
     color: #FF7300;
 }
 
@@ -167,13 +167,360 @@ header {
     text-transform: uppercase;
     color: #0C243E;
     margin-top: 300px;
+
 }
 
-.card_div_div{
+.q {
+    text-align: start;
+
+}
+
+.card_div_div {
     display: flex;
     gap: 25px;
 }
 
-.card_img{
+.card_img {
     border-radius: 10px;
+    transition: 1s;
+}
+
+.card_button {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #FF7300;
+    border: none;
+    padding: 14px 82px;
+    margin-top: 50px;
+    margin-left: 110px;
+}
+
+
+.sarlavha_3 {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 93px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.raqamli_belgi span {
+    opacity: 0.5;
+    border: 1px solid #FFFFFF;
+    border: none;
+}
+
+.raqamli_belgi {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+
+.sar_text {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 26 px;
+    width: 600px;
+}
+
+.raqamli_belgi {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 26px;
+}
+
+
+.katta_sim {
+    width: 790px;
+    height: 560px;
+    margin-top: 46px;
+    margin-left: 110px;
+    margin-bottom: 46px;
+}
+
+.sarlavhalar_div_1 {
+    margin-top: 110px;
+    text-align: start;
+    margin-left: 90px;
+}
+
+
+.katta_div_3 {
+    display: flex;
+    background-color: #FF7300;
+    width: 1544px;
+    margin: auto;
+    margin-top: 90px;
+}
+
+
+footer {
+    margin-top: 120px;
+}
+
+.sarlavha_4 {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    text-transform: uppercase;
+    color: #0C243E;
+    text-align: start;
+}
+
+.sozlar_3 {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C243E;
+    text-align: start;
+    margin-top: 30px;
+    width: 582px;
+    height: 247px;
+}
+
+.sim_amaki {
+    width: 480px;
+    height: 330px;
+    margin-left: 20px;
+}
+
+.sonlar {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    text-transform: uppercase;
+    color: #FF7300;
+    margin-top: 110px;
+}
+
+.sozchalar_5 {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 13px;
+    margin-bottom: 120px;
+}
+
+.section_2 {
+    background: #0C243E;
+}
+
+.sarlavha_6 {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    text-transform: uppercase;
+    color: #0C243E;
+    margin-top: 120px;
+    margin-left: 110px;
+    margin-bottom: -20px;
+}
+
+.sozchalar_4 {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    letter-spacing: -0.03em;
+    color: #1B2032;
+    margin-top: 50px;
+    width: 433px;
+    text-align: start;
+    margin-left: 200px;
+}
+
+.rasmlarni_div {
+    display: flex;
+    margin-top: 240px;
+    gap: 20px;
+}
+
+.xujjatlar {
+    width: 170px;
+    height: 250px;
+}
+
+.xujjatlar_k {
+    width: 470px;
+    height: 669px;
+    margin-top: -426px;
+}
+
+.section_3 {
+    margin-left: -200px;
+}
+
+.adashib_keetimm {
+    margin-bottom: 120px;
+}
+
+.fa-telegram {
+    color: red;
+}
+
+.sarlavha_8 {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 108px;
+}
+
+.footer_1 {
+    background: #667592;
+}
+
+.in_1 {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 14px;
+    padding-right: 220px;
+    border: 2px solid #0C243E;
+    margin-top: 50px;
+}
+
+.in_2 {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 14px;
+    padding-right: 220px;
+    border: 2px solid #0C243E;
+}
+
+.btn_5 {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #FF7300;
+    border-color: #FF7300;
+    padding: 14px;
+    text-align: center;
+    width: 360px;
+}
+
+.radio {
+    border: 2px solid #FFFFFF;
+    height: 16px;
+    width: 16px;
+    margin-top: 5px;
+}
+
+.sozchalar_6 {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    text-align: start;
+}
+
+.radio_soz_div {
+    display: flex;
+    margin-top: 35px;
+    margin-left: 45px;
+    margin-bottom: 100px;
+    gap: 15px;
+    width: 763px;
+}
+
+.pastki_text {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 65px;
+    text-align: start;
+}
+
+.bitta_soz {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 115%;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    margin-top: 21px;
+    text-align: start;
+
+}
+
+.footer_2 {
+    background: #0C243E;
+    margin-top: -0px;
+    
+}
+
+.t {
+    margin-top: 33px;
+}
+
+.tel_2{
+    margin-top: 33px;
+    color: #FF7300;
+    text-align: start;
+
+}
+
+.b{
+    margin-bottom: 32px;
+}
+
+.z{
+    text-decoration: underline;
+}
+.sozchalar_6 span{
+    text-decoration: underline;
 }
